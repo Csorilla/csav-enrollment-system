@@ -4,6 +4,6 @@
 
 ......
 
-composer self-update
+## composer self-update
 
 ......
